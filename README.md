@@ -1,4 +1,5 @@
 # VECTOR HEROES
+![Screenshot](https://synth.agency/wp-content/uploads/2020/06/preview-vector-heroes.png)
 
 ### PREVIEW
 [https://synth.agency/lab/super-flat-heroes-icons/](https://synth.agency/lab/super-flat-heroes-icons/)
